@@ -1,5 +1,5 @@
-export GITHUB_USERNAME=YOUR_USERNAME_FOR_GITHUB
-export GITHUB_EMAIL=YOUR_EMAIL_ADDRESS_FOR_GITHUB
+export GITHUB_USERNAME=RickyBobby51
+export GITHUB_EMAIL=mykelti1_95@hotmail.com
 mkdir -p ~/git
 cd ~/git
 git clone git@github.com:$GITHUB_USERNAME/metasploit-framework
